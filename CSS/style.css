@@ -5,6 +5,15 @@ table, th , td {
     border: 1px solid #ff0000;
 }
 .favorite {
-    color: #cc3300;
+    color: #0f0e0e;
     font-weight: bold;
+}
+h2 {
+    color: #ff0000;
+    border-bottom: 2px solid #0b62b9;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
 }
